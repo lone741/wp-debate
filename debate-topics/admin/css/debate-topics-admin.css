@@ -1,0 +1,34 @@
+/* 辩论话题管理页面样式 */
+.debate-topics-admin-page .statistics {
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.debate-topics-admin-page .statistics h2 {
+    margin-top: 0;
+}
+
+.debate-topics-admin-page .statistics ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.debate-topics-admin-page .statistics li {
+    margin-bottom: 10px;
+}
+
+/* 辩论话题元框样式 */
+#debate_topic_meta_box {
+    background: #f9f9f9;
+}
+
+#debate_topic_meta_box label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#debate_topic_meta_box select {
+    width: 100%;
+}
